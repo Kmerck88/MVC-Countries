@@ -17,7 +17,7 @@ namespace MVC_Countries
             CountryDb.Add(new Country("USA", "North America", new List<string> { "Red", "White", "Blue" }));
             CountryDb.Add(new Country("Canada", "North America", new List<string> { "Red", "White", "Red" }));
             CountryDb.Add(new Country("Mexico", "North America", new List<string> { "Green", "White", "Red" }));
-            CountryDb.Add(new Country("Argentina", "South America", new List<string> { "blue", "White", "Blue" }));
+            CountryDb.Add(new Country("Argentina", "South America", new List<string> { "Blue", "White", "Blue" }));
             CountryDb.Add(new Country("Spain", "Europe", new List<string> { "Yellow", "Red", "Yellow" }));
 
         }
